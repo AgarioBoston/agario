@@ -33,7 +33,8 @@ Agario top
 ![boston5](https://user-images.githubusercontent.com/101291504/157549742-f1488e12-6e1a-49ac-84cd-9ace101139ce.png)
 ![boston6](https://user-images.githubusercontent.com/101291504/157549766-c3626082-b0e9-49c8-9742-153aa114647e.png)
 ![boston8](https://user-images.githubusercontent.com/101291504/157549780-8b768aee-9c5c-458a-9222-b47845a42d14.png)
+playstore links https://play.google.com/store/apps/details?id=com.agar.boston
 ![boston9](https://user-images.githubusercontent.com/101291504/157549794-dbec0c36-1931-4ac5-85d9-b31a8250a6ce.png)
-
+app store https://apps.apple.com/us/app/agario-boston/id1609023561
 
 Players are divided into two categories - victim and hunter. Apart from new modes and paid add-ons, nothing has been changed. There is no need for that. While playing, you can feel the real competence of the process. Eating other cells, you will feel the pleasure as a shark eats its prey. In Agar.io, you may become eradicated very quickly, although you can return too soon. By reacting fast and eating the rest, you'll be able to stay alive for a while. sites: https://agario.boston
