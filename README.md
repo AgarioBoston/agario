@@ -25,9 +25,15 @@ Agario Split
 
 By playing too long, your cell will become huge, immobile, unable to eat anyone. At the same time, opponents will also get bigger. Therefore, professionals divide their cell in half by using the space bar. In addition to becoming easy pickings for others, you'll become much more agile and will be able to pick up small pods much faster. After splitting, both halves will be moving simultaneously and become one cell again after a while. The alternative is to push W and separate only a little part of yourself. This will make you less vulnerable and make the hunt easier. The main thing is to try to eat as many pods as possible so that they don't get to your opponents, who may destroy you as they grow up. The method of splitting a little part can also be used as a chance last resort to escape. In case you're in a critical situation, and someone is trying to eat your cell, separate a little part from yourself to get a little faster, eating lots of pods to distract the opponent. This can also be used to communicate with other players.
 Agario virus
+![boston7](https://user-images.githubusercontent.com/101291504/157549819-1e8498d0-aabf-4206-afbe-8843efa21260.png)
 
 Viruses look like thorns and very dangerous for giant cells. Some viruses look like big green thorns standing still. If they are eaten, there is no harm. However, it is better not to do that. The virus's job is to break your cell apart into many small pieces. Moreover, if you eat the virus, you will have to operate on many small cells, which is very difficult. The thorns can also become a hiding place for small cells. If you are being hunted by a giant cell, you can hide behind the virus. All players are afraid to divide, mainly if someone is close.
 Agario top
 ![boston3](https://user-images.githubusercontent.com/101291504/157548946-8096bc1a-0414-4637-9c24-8c48ce41fdec.png)
+![boston5](https://user-images.githubusercontent.com/101291504/157549742-f1488e12-6e1a-49ac-84cd-9ace101139ce.png)
+![boston6](https://user-images.githubusercontent.com/101291504/157549766-c3626082-b0e9-49c8-9742-153aa114647e.png)
+![boston8](https://user-images.githubusercontent.com/101291504/157549780-8b768aee-9c5c-458a-9222-b47845a42d14.png)
+![boston9](https://user-images.githubusercontent.com/101291504/157549794-dbec0c36-1931-4ac5-85d9-b31a8250a6ce.png)
+
 
 Players are divided into two categories - victim and hunter. Apart from new modes and paid add-ons, nothing has been changed. There is no need for that. While playing, you can feel the real competence of the process. Eating other cells, you will feel the pleasure as a shark eats its prey. In Agar.io, you may become eradicated very quickly, although you can return too soon. By reacting fast and eating the rest, you'll be able to stay alive for a while. sites: https://agario.boston
