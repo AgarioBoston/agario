@@ -7,6 +7,7 @@ Best Agario modes
 
 You can choose from five modes: Public (FFA), Battle Royale, Team, Experimental and Restricted mode - where you create a server and invite your friends to play together. FFA mode is boundless. It is impossible to win. Thus, you can be the leader up to a point, but someone will eventually devour you and overtake you anyway. This mode is excellent for newcomers to understand managing your cell and how to destroy other cells. Sometimes it happens in this mode that players join together as a team and start helping each other. This makes them very hard to eat, almost impossible. The Battle Royale shares a similar security zone as the other royal games. It starts once the correct amount of players have logged onto the server. Everybody begins playing with the same cell size. Since the play area is continually decreasing, the gameplay lasts no longer than 5 minutes, unlike the FFA mode. Opponents are placed opposite each other, which avoids uneven distribution of power. You will play with unknown people so that the strongest squad will destroy their enemies.
 Agario Manipulation
+![boston](https://user-images.githubusercontent.com/101291504/157548239-51dd3c53-9b2e-4732-b976-4d9d21d941d8.png)
 
 Skin changes. Once you enter the game, operating Agar.io is very easy:
 
